@@ -1,0 +1,1293 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13ec465dad735e546a97351cd8f834b8, type: 3}
+  m_Name: LevelConfig
+  m_EditorClassIdentifier: 
+  stages:
+  - startCondition: 0
+    scrollSpeed: 50
+    waves:
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3850686890305926304, guid: 20415cfc81d5f2e4d8b85ac1d275214e, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 5069928053139410085, guid: 69c4a3c87cd37b349b285f059b461ade, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 0
+      spwanInterval: 0.2
+      debuffs: 
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 111254809831971973, guid: a91e39e1326f25742a81086a477a3a1a, type: 3}
+      - {fileID: 3850686890305926304, guid: 20415cfc81d5f2e4d8b85ac1d275214e, type: 3}
+      - {fileID: 111254809831971973, guid: a91e39e1326f25742a81086a477a3a1a, type: 3}
+      - {fileID: 5069928053139410085, guid: 69c4a3c87cd37b349b285f059b461ade, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 6550322968427706140, guid: 92a8e99c3cb005b4c851a28deaf958a4, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 111254809831971973, guid: a91e39e1326f25742a81086a477a3a1a, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 111254809831971973, guid: a91e39e1326f25742a81086a477a3a1a, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 6550322968427706140, guid: 92a8e99c3cb005b4c851a28deaf958a4, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 6550322968427706140, guid: 92a8e99c3cb005b4c851a28deaf958a4, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      interval: 0
+      spwanInterval: 0.5
+      debuffs: 
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 6550322968427706140, guid: 92a8e99c3cb005b4c851a28deaf958a4, type: 3}
+      - {fileID: 3850686890305926304, guid: 20415cfc81d5f2e4d8b85ac1d275214e, type: 3}
+      - {fileID: 6550322968427706140, guid: 92a8e99c3cb005b4c851a28deaf958a4, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 5069928053139410085, guid: 69c4a3c87cd37b349b285f059b461ade, type: 3}
+      - {fileID: 6550322968427706140, guid: 92a8e99c3cb005b4c851a28deaf958a4, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 6550322968427706140, guid: 92a8e99c3cb005b4c851a28deaf958a4, type: 3}
+      - {fileID: 6550322968427706140, guid: 92a8e99c3cb005b4c851a28deaf958a4, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 6550322968427706140, guid: 92a8e99c3cb005b4c851a28deaf958a4, type: 3}
+      - {fileID: 6550322968427706140, guid: 92a8e99c3cb005b4c851a28deaf958a4, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      interval: 1
+      spwanInterval: 0.5
+      debuffs: 01000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 111254809831971973, guid: a91e39e1326f25742a81086a477a3a1a, type: 3}
+      - {fileID: 3850686890305926304, guid: 20415cfc81d5f2e4d8b85ac1d275214e, type: 3}
+      - {fileID: 111254809831971973, guid: a91e39e1326f25742a81086a477a3a1a, type: 3}
+      - {fileID: 111254809831971973, guid: a91e39e1326f25742a81086a477a3a1a, type: 3}
+      - {fileID: 111254809831971973, guid: a91e39e1326f25742a81086a477a3a1a, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 6550322968427706140, guid: 92a8e99c3cb005b4c851a28deaf958a4, type: 3}
+      - {fileID: 6550322968427706140, guid: 92a8e99c3cb005b4c851a28deaf958a4, type: 3}
+      interval: 0
+      spwanInterval: 0.2
+      debuffs: 
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 111254809831971973, guid: a91e39e1326f25742a81086a477a3a1a, type: 3}
+      - {fileID: 3850686890305926304, guid: 20415cfc81d5f2e4d8b85ac1d275214e, type: 3}
+      - {fileID: 111254809831971973, guid: a91e39e1326f25742a81086a477a3a1a, type: 3}
+      - {fileID: 111254809831971973, guid: a91e39e1326f25742a81086a477a3a1a, type: 3}
+      - {fileID: 6550322968427706140, guid: 92a8e99c3cb005b4c851a28deaf958a4, type: 3}
+      - {fileID: 6550322968427706140, guid: 92a8e99c3cb005b4c851a28deaf958a4, type: 3}
+      interval: 0
+      spwanInterval: 0.1
+      debuffs: 
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 5069928053139410085, guid: 69c4a3c87cd37b349b285f059b461ade, type: 3}
+      - {fileID: 3850686890305926304, guid: 20415cfc81d5f2e4d8b85ac1d275214e, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3850686890305926304, guid: 20415cfc81d5f2e4d8b85ac1d275214e, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      interval: 0
+      spwanInterval: 0.1
+      debuffs: 04000000
+      debuffDuration: 0
+    interval: 0
+    bossFight: 0
+  - startCondition: 0
+    scrollSpeed: 25
+    waves:
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3850686890305926304, guid: 20415cfc81d5f2e4d8b85ac1d275214e, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3850686890305926304, guid: 20415cfc81d5f2e4d8b85ac1d275214e, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 7684100462596875454, guid: 294b788e74d33ae4a81bb64009382c06, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3065694510372912850, guid: 3c5190c4daceceb419947bbdf19a262b, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 7938580598063923000, guid: 6c83dc9b8b176f346b6220a6cf6c40fa, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 7938580598063923000, guid: 6c83dc9b8b176f346b6220a6cf6c40fa, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 7684100462596875454, guid: 294b788e74d33ae4a81bb64009382c06, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3102082820305825976, guid: faf5e66ef01ae004ab665728b92732e8, type: 3}
+      - {fileID: 1485002942108856079, guid: fc864f02bed8aa24e8b33358ec57be4d, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      interval: 2
+      spwanInterval: 0.1
+      debuffs: 
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 6392265749335154537, guid: 2737eaa1fe857ed479475ec16476a857, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3939015890046225852, guid: e1694ecb92bad7d4ea2a4e7ac49fafc9, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3939015890046225852, guid: e1694ecb92bad7d4ea2a4e7ac49fafc9, type: 3}
+      - {fileID: 7938580598063923000, guid: 6c83dc9b8b176f346b6220a6cf6c40fa, type: 3}
+      - {fileID: 2513966389135162324, guid: 2a61e3b74b26da9479e8b4e64b1e6c3f, type: 3}
+      - {fileID: 7938580598063923000, guid: 6c83dc9b8b176f346b6220a6cf6c40fa, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3102082820305825976, guid: faf5e66ef01ae004ab665728b92732e8, type: 3}
+      - {fileID: 6392265749335154537, guid: 2737eaa1fe857ed479475ec16476a857, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 2513966389135162324, guid: 2a61e3b74b26da9479e8b4e64b1e6c3f, type: 3}
+      - {fileID: 7938580598063923000, guid: 6c83dc9b8b176f346b6220a6cf6c40fa, type: 3}
+      - {fileID: 2513966389135162324, guid: 2a61e3b74b26da9479e8b4e64b1e6c3f, type: 3}
+      - {fileID: 3065694510372912850, guid: 3c5190c4daceceb419947bbdf19a262b, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3065694510372912850, guid: 3c5190c4daceceb419947bbdf19a262b, type: 3}
+      - {fileID: 3939015890046225852, guid: e1694ecb92bad7d4ea2a4e7ac49fafc9, type: 3}
+      - {fileID: 2513966389135162324, guid: 2a61e3b74b26da9479e8b4e64b1e6c3f, type: 3}
+      - {fileID: 2513966389135162324, guid: 2a61e3b74b26da9479e8b4e64b1e6c3f, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 1485002942108856079, guid: fc864f02bed8aa24e8b33358ec57be4d, type: 3}
+      - {fileID: 2513966389135162324, guid: 2a61e3b74b26da9479e8b4e64b1e6c3f, type: 3}
+      - {fileID: 6392265749335154537, guid: 2737eaa1fe857ed479475ec16476a857, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 0
+      spwanInterval: 0.1
+      debuffs: 
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 6304256759636726696, guid: c524a6d89f725ab418b74012774b5720, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 6304256759636726696, guid: c524a6d89f725ab418b74012774b5720, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3065694510372912850, guid: 3c5190c4daceceb419947bbdf19a262b, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 6304256759636726696, guid: c524a6d89f725ab418b74012774b5720, type: 3}
+      - {fileID: 6392265749335154537, guid: 2737eaa1fe857ed479475ec16476a857, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 6392265749335154537, guid: 2737eaa1fe857ed479475ec16476a857, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 7938580598063923000, guid: 6c83dc9b8b176f346b6220a6cf6c40fa, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 6392265749335154537, guid: 2737eaa1fe857ed479475ec16476a857, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 6392265749335154537, guid: 2737eaa1fe857ed479475ec16476a857, type: 3}
+      interval: 2
+      spwanInterval: 0.4
+      debuffs: 
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 7312920313913391561, guid: daaeff638de178b44aac3864797fc7ae, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      - {fileID: 3850686890305926304, guid: 20415cfc81d5f2e4d8b85ac1d275214e, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 7312920313913391561, guid: daaeff638de178b44aac3864797fc7ae, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 7312920313913391561, guid: daaeff638de178b44aac3864797fc7ae, type: 3}
+      - {fileID: 111254809831971973, guid: a91e39e1326f25742a81086a477a3a1a, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      - {fileID: 1485002942108856079, guid: fc864f02bed8aa24e8b33358ec57be4d, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 7312920313913391561, guid: daaeff638de178b44aac3864797fc7ae, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3102082820305825976, guid: faf5e66ef01ae004ab665728b92732e8, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 7312920313913391561, guid: daaeff638de178b44aac3864797fc7ae, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 7312920313913391561, guid: daaeff638de178b44aac3864797fc7ae, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 2
+      spwanInterval: 0.2
+      debuffs: 01000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 4162779102825025143, guid: 9d410a866f818a548b0374da3989323a, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      - {fileID: 111254809831971973, guid: a91e39e1326f25742a81086a477a3a1a, type: 3}
+      - {fileID: 3850686890305926304, guid: 20415cfc81d5f2e4d8b85ac1d275214e, type: 3}
+      - {fileID: 111254809831971973, guid: a91e39e1326f25742a81086a477a3a1a, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      - {fileID: 1485002942108856079, guid: fc864f02bed8aa24e8b33358ec57be4d, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      - {fileID: 4162779102825025143, guid: 9d410a866f818a548b0374da3989323a, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      - {fileID: 3102082820305825976, guid: faf5e66ef01ae004ab665728b92732e8, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      - {fileID: 4162779102825025143, guid: 9d410a866f818a548b0374da3989323a, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 4162779102825025143, guid: 9d410a866f818a548b0374da3989323a, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 4162779102825025143, guid: 9d410a866f818a548b0374da3989323a, type: 3}
+      - {fileID: 3102082820305825976, guid: faf5e66ef01ae004ab665728b92732e8, type: 3}
+      interval: 2
+      spwanInterval: 0.3
+      debuffs: 01000000
+      debuffDuration: 0
+    interval: 5
+    bossFight: 0
+  - startCondition: 0
+    scrollSpeed: 10
+    waves:
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 6550322968427706140, guid: 92a8e99c3cb005b4c851a28deaf958a4, type: 3}
+      - {fileID: 6550322968427706140, guid: 92a8e99c3cb005b4c851a28deaf958a4, type: 3}
+      - {fileID: 6550322968427706140, guid: 92a8e99c3cb005b4c851a28deaf958a4, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 6550322968427706140, guid: 92a8e99c3cb005b4c851a28deaf958a4, type: 3}
+      - {fileID: 3850686890305926304, guid: 20415cfc81d5f2e4d8b85ac1d275214e, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 5069928053139410085, guid: 69c4a3c87cd37b349b285f059b461ade, type: 3}
+      - {fileID: 6550322968427706140, guid: 92a8e99c3cb005b4c851a28deaf958a4, type: 3}
+      - {fileID: 6550322968427706140, guid: 92a8e99c3cb005b4c851a28deaf958a4, type: 3}
+      - {fileID: 7684100462596875454, guid: 294b788e74d33ae4a81bb64009382c06, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      interval: 1
+      spwanInterval: 0.2
+      debuffs: 02000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 4162779102825025143, guid: 9d410a866f818a548b0374da3989323a, type: 3}
+      - {fileID: 4162779102825025143, guid: 9d410a866f818a548b0374da3989323a, type: 3}
+      - {fileID: 4162779102825025143, guid: 9d410a866f818a548b0374da3989323a, type: 3}
+      - {fileID: 4162779102825025143, guid: 9d410a866f818a548b0374da3989323a, type: 3}
+      - {fileID: 4162779102825025143, guid: 9d410a866f818a548b0374da3989323a, type: 3}
+      - {fileID: 4162779102825025143, guid: 9d410a866f818a548b0374da3989323a, type: 3}
+      - {fileID: 4162779102825025143, guid: 9d410a866f818a548b0374da3989323a, type: 3}
+      interval: 0
+      spwanInterval: 1
+      debuffs: 
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 7684100462596875454, guid: 294b788e74d33ae4a81bb64009382c06, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 7684100462596875454, guid: 294b788e74d33ae4a81bb64009382c06, type: 3}
+      - {fileID: 3102082820305825976, guid: faf5e66ef01ae004ab665728b92732e8, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3102082820305825976, guid: faf5e66ef01ae004ab665728b92732e8, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 7684100462596875454, guid: 294b788e74d33ae4a81bb64009382c06, type: 3}
+      - {fileID: 7938580598063923000, guid: 6c83dc9b8b176f346b6220a6cf6c40fa, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3065694510372912850, guid: 3c5190c4daceceb419947bbdf19a262b, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 0
+      spwanInterval: 0.1
+      debuffs: 
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 2390755758459859213, guid: 6ff57fbebbae56945987bfa5638ae4b5, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 2390755758459859213, guid: 6ff57fbebbae56945987bfa5638ae4b5, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 2390755758459859213, guid: 6ff57fbebbae56945987bfa5638ae4b5, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3850686890305926304, guid: 20415cfc81d5f2e4d8b85ac1d275214e, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 6550322968427706140, guid: 92a8e99c3cb005b4c851a28deaf958a4, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 2390755758459859213, guid: 6ff57fbebbae56945987bfa5638ae4b5, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 1
+      spwanInterval: 0.4
+      debuffs: 02000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3850686890305926304, guid: 20415cfc81d5f2e4d8b85ac1d275214e, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 6392265749335154537, guid: 2737eaa1fe857ed479475ec16476a857, type: 3}
+      - {fileID: 6392265749335154537, guid: 2737eaa1fe857ed479475ec16476a857, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 7938580598063923000, guid: 6c83dc9b8b176f346b6220a6cf6c40fa, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 1
+      spwanInterval: 0.1
+      debuffs: 03000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 5583143648920093523, guid: 93bff7b9508358347a60e4d5f25bc027, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 5583143648920093523, guid: 93bff7b9508358347a60e4d5f25bc027, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 5583143648920093523, guid: 93bff7b9508358347a60e4d5f25bc027, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 5583143648920093523, guid: 93bff7b9508358347a60e4d5f25bc027, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 5583143648920093523, guid: 93bff7b9508358347a60e4d5f25bc027, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 5583143648920093523, guid: 93bff7b9508358347a60e4d5f25bc027, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 1485002942108856079, guid: fc864f02bed8aa24e8b33358ec57be4d, type: 3}
+      - {fileID: 6392265749335154537, guid: 2737eaa1fe857ed479475ec16476a857, type: 3}
+      - {fileID: 5583143648920093523, guid: 93bff7b9508358347a60e4d5f25bc027, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 2
+      spwanInterval: 0.8
+      debuffs: 01000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      interval: 1
+      spwanInterval: 0.1
+      debuffs: 03000000
+      debuffDuration: 0
+    interval: 2
+    bossFight: 0
+  - startCondition: 0
+    scrollSpeed: 45
+    waves:
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 6392265749335154537, guid: 2737eaa1fe857ed479475ec16476a857, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8093817143430815643, guid: 54d7b7cac702c674b82613b7ab7adde8, type: 3}
+      - {fileID: 8093817143430815643, guid: 54d7b7cac702c674b82613b7ab7adde8, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 7312920313913391561, guid: daaeff638de178b44aac3864797fc7ae, type: 3}
+      - {fileID: 8093817143430815643, guid: 54d7b7cac702c674b82613b7ab7adde8, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3850686890305926304, guid: 20415cfc81d5f2e4d8b85ac1d275214e, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 6392265749335154537, guid: 2737eaa1fe857ed479475ec16476a857, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 8093817143430815643, guid: 54d7b7cac702c674b82613b7ab7adde8, type: 3}
+      - {fileID: 3850686890305926304, guid: 20415cfc81d5f2e4d8b85ac1d275214e, type: 3}
+      - {fileID: 8093817143430815643, guid: 54d7b7cac702c674b82613b7ab7adde8, type: 3}
+      - {fileID: 8093817143430815643, guid: 54d7b7cac702c674b82613b7ab7adde8, type: 3}
+      interval: 1
+      spwanInterval: 0.3
+      debuffs: 
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 3102082820305825976, guid: faf5e66ef01ae004ab665728b92732e8, type: 3}
+      - {fileID: 3102082820305825976, guid: faf5e66ef01ae004ab665728b92732e8, type: 3}
+      - {fileID: 3102082820305825976, guid: faf5e66ef01ae004ab665728b92732e8, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      - {fileID: 3102082820305825976, guid: faf5e66ef01ae004ab665728b92732e8, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      - {fileID: 7938580598063923000, guid: 6c83dc9b8b176f346b6220a6cf6c40fa, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 7938580598063923000, guid: 6c83dc9b8b176f346b6220a6cf6c40fa, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 2146089046220978862, guid: 7e6dcab21592cd045b08bd7b35b90458, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      interval: 1
+      spwanInterval: 0.1
+      debuffs: 01000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 6801583464854256322, guid: 81dfbdc297d2dff42b8b122c73f7892c, type: 3}
+      - {fileID: 6801583464854256322, guid: 81dfbdc297d2dff42b8b122c73f7892c, type: 3}
+      - {fileID: 3065694510372912850, guid: 3c5190c4daceceb419947bbdf19a262b, type: 3}
+      - {fileID: 6801583464854256322, guid: 81dfbdc297d2dff42b8b122c73f7892c, type: 3}
+      - {fileID: 3102082820305825976, guid: faf5e66ef01ae004ab665728b92732e8, type: 3}
+      - {fileID: 6801583464854256322, guid: 81dfbdc297d2dff42b8b122c73f7892c, type: 3}
+      - {fileID: 6801583464854256322, guid: 81dfbdc297d2dff42b8b122c73f7892c, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 6801583464854256322, guid: 81dfbdc297d2dff42b8b122c73f7892c, type: 3}
+      - {fileID: 3102082820305825976, guid: faf5e66ef01ae004ab665728b92732e8, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 6801583464854256322, guid: 81dfbdc297d2dff42b8b122c73f7892c, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3850686890305926304, guid: 20415cfc81d5f2e4d8b85ac1d275214e, type: 3}
+      - {fileID: 6801583464854256322, guid: 81dfbdc297d2dff42b8b122c73f7892c, type: 3}
+      - {fileID: 3065694510372912850, guid: 3c5190c4daceceb419947bbdf19a262b, type: 3}
+      - {fileID: 6801583464854256322, guid: 81dfbdc297d2dff42b8b122c73f7892c, type: 3}
+      - {fileID: 7938580598063923000, guid: 6c83dc9b8b176f346b6220a6cf6c40fa, type: 3}
+      - {fileID: 6801583464854256322, guid: 81dfbdc297d2dff42b8b122c73f7892c, type: 3}
+      interval: 1
+      spwanInterval: 0.2
+      debuffs: 
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 6392265749335154537, guid: 2737eaa1fe857ed479475ec16476a857, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8093817143430815643, guid: 54d7b7cac702c674b82613b7ab7adde8, type: 3}
+      - {fileID: 8093817143430815643, guid: 54d7b7cac702c674b82613b7ab7adde8, type: 3}
+      - {fileID: 5196342813698242945, guid: ec07b6a6b179d24478f25687894182cf, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8093817143430815643, guid: 54d7b7cac702c674b82613b7ab7adde8, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8093817143430815643, guid: 54d7b7cac702c674b82613b7ab7adde8, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3475345101615939994, guid: 871a8f5fea151fe41a2c529bedeadae7, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3850686890305926304, guid: 20415cfc81d5f2e4d8b85ac1d275214e, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 2146089046220978862, guid: 7e6dcab21592cd045b08bd7b35b90458, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 6392265749335154537, guid: 2737eaa1fe857ed479475ec16476a857, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8093817143430815643, guid: 54d7b7cac702c674b82613b7ab7adde8, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 8093817143430815643, guid: 54d7b7cac702c674b82613b7ab7adde8, type: 3}
+      - {fileID: 3850686890305926304, guid: 20415cfc81d5f2e4d8b85ac1d275214e, type: 3}
+      - {fileID: 8093817143430815643, guid: 54d7b7cac702c674b82613b7ab7adde8, type: 3}
+      interval: 1
+      spwanInterval: 0.2
+      debuffs: 01000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 3065694510372912850, guid: 3c5190c4daceceb419947bbdf19a262b, type: 3}
+      - {fileID: 3850686890305926304, guid: 20415cfc81d5f2e4d8b85ac1d275214e, type: 3}
+      - {fileID: 6801583464854256322, guid: 81dfbdc297d2dff42b8b122c73f7892c, type: 3}
+      - {fileID: 3683333003324482549, guid: c67f0cf859fd91c4abd49ca6e874e1a8, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 3683333003324482549, guid: c67f0cf859fd91c4abd49ca6e874e1a8, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 6801583464854256322, guid: 81dfbdc297d2dff42b8b122c73f7892c, type: 3}
+      - {fileID: 2390755758459859213, guid: 6ff57fbebbae56945987bfa5638ae4b5, type: 3}
+      - {fileID: 6801583464854256322, guid: 81dfbdc297d2dff42b8b122c73f7892c, type: 3}
+      - {fileID: 3683333003324482549, guid: c67f0cf859fd91c4abd49ca6e874e1a8, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3683333003324482549, guid: c67f0cf859fd91c4abd49ca6e874e1a8, type: 3}
+      - {fileID: 3374903945676677460, guid: b4e93f5fb107aff4690d8f53c1d6d2d3, type: 3}
+      - {fileID: 3683333003324482549, guid: c67f0cf859fd91c4abd49ca6e874e1a8, type: 3}
+      - {fileID: 3683333003324482549, guid: c67f0cf859fd91c4abd49ca6e874e1a8, type: 3}
+      - {fileID: 3374903945676677460, guid: b4e93f5fb107aff4690d8f53c1d6d2d3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 1842362180615220058, guid: fb07255b76db7d94888063b0392ca054, type: 3}
+      - {fileID: 3374903945676677460, guid: d947fde399f86e9418e08253ef776215, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 2146089046220978862, guid: 7e6dcab21592cd045b08bd7b35b90458, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 1
+      spwanInterval: 0.4
+      debuffs: 02000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 6340849088463690034, guid: e67f83804c195a447b6a792f812f4aa3, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 6801583464854256322, guid: 81dfbdc297d2dff42b8b122c73f7892c, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 6340849088463690034, guid: e67f83804c195a447b6a792f812f4aa3, type: 3}
+      - {fileID: 6801583464854256322, guid: 81dfbdc297d2dff42b8b122c73f7892c, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3850686890305926304, guid: 20415cfc81d5f2e4d8b85ac1d275214e, type: 3}
+      - {fileID: 6340849088463690034, guid: e67f83804c195a447b6a792f812f4aa3, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 7938580598063923000, guid: 6c83dc9b8b176f346b6220a6cf6c40fa, type: 3}
+      - {fileID: 6801583464854256322, guid: 81dfbdc297d2dff42b8b122c73f7892c, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 6340849088463690034, guid: e67f83804c195a447b6a792f812f4aa3, type: 3}
+      - {fileID: 7938580598063923000, guid: 6c83dc9b8b176f346b6220a6cf6c40fa, type: 3}
+      - {fileID: 3683333003324482549, guid: c67f0cf859fd91c4abd49ca6e874e1a8, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 6340849088463690034, guid: e67f83804c195a447b6a792f812f4aa3, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 3683333003324482549, guid: c67f0cf859fd91c4abd49ca6e874e1a8, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 6340849088463690034, guid: e67f83804c195a447b6a792f812f4aa3, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 1084895359373602285, guid: 2b76ef94eeea39e4e8b6f5cf94aa9519, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 1
+      spwanInterval: 0.4
+      debuffs: 
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3065694510372912850, guid: 3c5190c4daceceb419947bbdf19a262b, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3102082820305825976, guid: faf5e66ef01ae004ab665728b92732e8, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3102082820305825976, guid: faf5e66ef01ae004ab665728b92732e8, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3065694510372912850, guid: 3c5190c4daceceb419947bbdf19a262b, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 7938580598063923000, guid: 6c83dc9b8b176f346b6220a6cf6c40fa, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3102082820305825976, guid: faf5e66ef01ae004ab665728b92732e8, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 7938580598063923000, guid: 6c83dc9b8b176f346b6220a6cf6c40fa, type: 3}
+      - {fileID: 1485002942108856079, guid: fc864f02bed8aa24e8b33358ec57be4d, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 0
+      spwanInterval: 0.1
+      debuffs: 04000000
+      debuffDuration: 0
+    interval: 5
+    bossFight: 0
+  - startCondition: 0
+    scrollSpeed: 80
+    waves:
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 2383599707030603836, guid: 0d601c50b06dc3f4eb76a8698fce4652, type: 3}
+      interval: 0
+      spwanInterval: 0.5
+      debuffs: 
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 2
+      spwanInterval: 0.2
+      debuffs: 01000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 3
+      spwanInterval: 0.2
+      debuffs: 
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 1
+      spwanInterval: 0.2
+      debuffs: 04000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 3
+      spwanInterval: 0.2
+      debuffs: 
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 2
+      spwanInterval: 0.2
+      debuffs: 03000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 2
+      spwanInterval: 0.2
+      debuffs: 02000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 3
+      spwanInterval: 0.2
+      debuffs: 05000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 2
+      spwanInterval: 0.2
+      debuffs: 02000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 3
+      spwanInterval: 0.2
+      debuffs: 
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 2
+      spwanInterval: 0.2
+      debuffs: 01000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 1
+      spwanInterval: 0.2
+      debuffs: 
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 2
+      spwanInterval: 0.2
+      debuffs: 05000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 2
+      spwanInterval: 0.2
+      debuffs: 01000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 2
+      spwanInterval: 0.2
+      debuffs: 05000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 3
+      spwanInterval: 0.2
+      debuffs: 01000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 1
+      spwanInterval: 0.2
+      debuffs: 02000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 1
+      spwanInterval: 0.2
+      debuffs: 02000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 1
+      spwanInterval: 0.2
+      debuffs: 
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 1
+      spwanInterval: 0.2
+      debuffs: 03000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 1
+      spwanInterval: 0.2
+      debuffs: 02000000
+      debuffDuration: 0
+    - startCondition: 0
+      formation: 0
+      obstacles:
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 8232405338952885288, guid: a9c3a12926da14642ab92e4865d22ed3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 8643706000134735830, guid: 241cf2b867b1df34da11ce6798fedab3, type: 3}
+      - {fileID: 3303318134892388976, guid: ce0ac7454030bcd49bcd1db7b3855806, type: 3}
+      interval: 1
+      spwanInterval: 0.2
+      debuffs: 05000000
+      debuffDuration: 0
+    interval: 2
+    bossFight: 1

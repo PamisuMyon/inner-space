@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Boss
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Bullet
+  - PlayerBullet
+  - EnemyBullet
+  - 
+  - 
+  - 
+  - 
+  - Alien
+  - Wall
+  - DeathWall
+  - 
+  - 
+  - Void
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4210887451
+    locked: 0
+  - name: Ground
+    uniqueID: 947129077
+    locked: 0
+  - name: Character
+    uniqueID: 456314181
+    locked: 0
+  - name: Effect
+    uniqueID: 4190610319
+    locked: 0
+  - name: UI
+    uniqueID: 3264481267
+    locked: 0
