@@ -6928,14 +6928,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ce6c96d063e1c44bb6d871c55c8660d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  normal: A 7Pinned by Game
+  normal: A Pamisu by Game
   random:
-  - A Game by 7Pinned
-  - 'Pe dminA7 nGbeay '
-  - ea dA7m yinebn PG
-  - dmeA ebya 7nPG ni
-  - 'Pyd nmea7nGiAe b '
-  - A Game by 7Pinned
+  - A Game by Pamisu
+  - aamG isbmPeyA  u
+  - 'Gai m mAbyaeusP '
+  - aA PGu iammeb sy
+  - Guysba e P maimA
+  - A Game by Pamisu
   randomTimes: 10
   randomDuration: 0.08
   randomInterval: 0.2
@@ -6973,7 +6973,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: A 7Pinned by Game
+  m_Text: A Pamisu by Game
 --- !u!222 &1919260519
 CanvasRenderer:
   m_ObjectHideFlags: 0
