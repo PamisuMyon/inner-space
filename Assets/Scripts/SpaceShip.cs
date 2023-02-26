@@ -171,7 +171,7 @@ public class SpaceShip : LivingEntity
 
     private void OnCollisionEnter2D(Collision2D other) 
     {
-        if (other.gameObject.tag == "Player")
+        if (other.gameObject.CompareTag("Player"))
         {
             LivingEntity livingEntity = other.gameObject.GetComponent<LivingEntity>();
             if (livingEntity)

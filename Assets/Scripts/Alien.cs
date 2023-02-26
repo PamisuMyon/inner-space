@@ -34,7 +34,7 @@ public class Alien : LivingEntity
     private void OnTriggerStay2D(Collider2D other) 
     {
         if (scroller.end) return;
-        if (other.tag == "Player" && hp == maxHp)
+        if (other.CompareTag("Player") && hp == maxHp)
         {
             triggerCounter += Time.deltaTime;
             if (triggerCounter >= triggerDuration)
@@ -48,7 +48,7 @@ public class Alien : LivingEntity
 
     private void OnTriggerExit2D(Collider2D other) 
     {
-        if (other.tag == "Player")
+        if (other.CompareTag("Player"))
         {
             triggerCounter = 0f;
         }
